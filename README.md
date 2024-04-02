@@ -1,6 +1,8 @@
 # Eurorack DSO138 mini
 Simple panel and buttons for eurorack adaptation of a DSO138 mini oscilloscope. I didn't try to adapt the switches, instead I just did a simple cut out in the panel to access the switches that came with it.
 
+![](images/scope_panel.jpg)
+
 ## Specs
 * 16HP
 
